@@ -1,4 +1,4 @@
-# 	RoboWars
+# 	RoboWar Bot
 
 > Bot Specification:
 
