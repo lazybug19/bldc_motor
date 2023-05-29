@@ -1,9 +1,8 @@
 int in1 = 2;
 int in2 = 3;
-int enable1 = 5;  // pin with ~ symbol
+int enable1 = 5;  // PWM
 
-int channel_2 = 6;  // pin with ~ symbol
-
+int channel_2 = 6;  // PWM
 void setup() 
 {
   pinMode(channel_2, INPUT);
@@ -48,5 +47,5 @@ void loop() {
       analogWrite(enable1, 0);
   }
   
-  delay(10);
+  delay(10); //optional
 }
