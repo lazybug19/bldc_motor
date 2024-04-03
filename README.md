@@ -80,8 +80,9 @@ Shaft length: 6 mm.
   Density: 2.7 g/cm3
   Weight: 6.56kg
     
-  > Chassis Design:
-    ![image](https://user-images.githubusercontent.com/105040967/209374772-2be91d63-fc71-49b6-ad87-2d45c08faede.png)
+> Chassis Design:
+  <br>
+  ![image](https://user-images.githubusercontent.com/105040967/209374772-2be91d63-fc71-49b6-ad87-2d45c08faede.png)
 
   
 
