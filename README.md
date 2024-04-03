@@ -9,7 +9,7 @@
 - Diameter of the weapon blade should be not more than 8 inches.
 - The machine can be controlled through wireless remotes only. Remote control systems might be used.
 
-> Robot Setup:
+
 
   > Components & Specifications:
   - 2 Weapon Motors 
